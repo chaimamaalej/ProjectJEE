@@ -1,0 +1,17 @@
+.bg-costum{
+	background: #e91e63;
+}
+
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+	color: white;
+}
+.navbar-costum .nav-item:hover .nav-link{
+	background: #FFA1CF;
+	color: black;
+	border-radius: 10px;
+}
+.div-color{
+	background-image: linear-gradient(to right top, #c26dcf, #c995e2, #d5baf1, #e7ddfa, #ffffff);
+	height: 500px;
+}
